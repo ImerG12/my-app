@@ -1,0 +1,103 @@
+[
+  {
+   "title":"Food Trucks",
+   "desc":"FOODEAZE- Food Truck Takeover, is located in the east side of the city by the Bay Bridge. Here you will find the best of the best Food Trucks in the bay area. As for our food, we have a variety of food trucks ranging from cheeseteak trucks to mexican food trucks- We have everything here ! Nothing but good vibes in the east part of the city.",
+   "address":"350 2nd St, San Francisco, CA 94107",
+   "hours": "Mon - Thu 11am - 2:00pm",
+   "geo":{
+      "lat":37.7952005,
+      "lon":-122.4027927
+   },
+   "images":[
+      "ER4m53cU0AE0DX7.jpg"
+   ],
+   "website":"https://pyramidcenter.com/point-of-interest/redwood-park/",
+   "features":[
+      "FOODEAZE Food Trucks"
+   ]
+},
+{
+ "title":"Fast Food",
+ "desc":"Located in Southern San Francisco, Five Guys holds its reputation for handmade burgers and over 1000 milkshake combinations. Coming from the airport ? We have the perfect meal to kill that turbulence hunger. Only two Five Guys are located in San Francisco, so come by and see what the hype is about",
+  "address":"2278 Westborough Blvd, South San Francisco, CA 94080",
+  "hours": "Sun - Sun 11am - 10:00pm",
+  "geo":{
+     "lat":37.7942109,
+     "lon":-122.4037971
+  },
+  "images":[
+     "images_easyblog_articles_7756_b2ap3_large_San-Francisco-Food-Things-To-Eat-In-USA-California-3.png"
+  ],
+  "website":"https://www.artandarchitecture-sf.com/empire-park.html",
+  "features":[
+    "Five Guys"
+ ]
+},
+{
+  "title":"Bars",
+      "desc": "A rooftop cocktail lounge & kitchen with highbrow bar bites, drinks by the Bon Vivants & city views.",
+      "address":"50 California St San Francisco, CA 94111",
+      "hours": "Mon - Fri 7am - 5:30pm",
+      "geo":{
+         "lat":37.79408,
+         "lon":-122.3973817
+      },
+      "images":[
+         "flatten;crop;jpeg_quality=70.jpg"
+      ],
+
+      "features":[
+         "Charmaine's Rooftop Bar & Lounge"
+      ]
+},
+  {
+     "title":"Casual Dining",
+     "desc":"Ingredient-focused Californian eats & creative cocktails in a lively, 2-story setting.",
+     "address":"560 Divisadero St, San Francisco, CA 94117",
+     "hours": "Tue-Fri 5pm - 9 pm",
+     "geo":{
+        "lat":37.7939413,
+        "lon":-122.4002143
+     },
+     "images":[
+        "image-asset.jpeg"
+     ],
+     "features":[
+        "Nopa Restaraunt"
+     ]
+  },
+  {
+     "title":"Fine Dining",
+     "desc":"White tablecloths & soaring ceilings distinguish this upscale locale with steak, seafood & sushi.",
+     "address":"399 Geary St · Near Union Square",
+     "hours": "Mon - Mon 5pm - 9pm",
+     "geo":{
+        "lat":37.7936454,
+        "lon":-122.4014547
+     },
+     "images":[
+        "Gitane.jpg"
+     ],
+     "opens":"10am",
+     "closes":"5pm",
+     "features":[
+        "Mastro's Restaraunt"
+     ]
+  },
+  {
+       "title":"Buffet",
+       "desc":"Asian buffet restaurant serving meat & spicy sauces, along with unlimited soda.",
+       "address":" 1626 Taraval St, San Francisco, CA 94116",
+       "hours": "Mon - Fri 9am - 6pm",
+       "geo":{
+          "lat":37.7936648,
+          "lon":-122.3964805
+       },
+       "images":[
+          "Waterbar-Interior.jpg"
+       ],
+       "features":[
+          "Fiery Hot Pot Buffet3"
+       ]
+    }
+  ]

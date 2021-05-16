@@ -1,25 +1,28 @@
-import logo from './logo.svg';
+import MainList from './MainList';
 import './App.css';
+import Title from './Title';
+import Footer from './Footer';
+import { HashRouter as Router, Route } from 'react-router-dom'
+import About from './About'
+import Foodies from './Foodies'
+import Community from './Community'
+
+
 
 function App() {
   return (
+<Router>
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Title/>
+     <Route exact path="/" component={MainList}/>
+     <Route path="/about" component={About} />
+     <Route path="/details/:id" component={Foodies} />
+     <Route path="/Community" component={Community} />
+  
+      <Footer/>
     </div>
+  </Router>
+
   );
 }
-
 export default App;
